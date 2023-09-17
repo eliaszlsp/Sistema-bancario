@@ -53,7 +53,7 @@ npm run dev
 A API estará disponível em `http://localhost:3000`.
 
 
- ** Rotas **
+## Rotas
 
 - `POST /api/contas` - Criar conta bancária
 - `GET /api/contas` - Listar contas bancárias
